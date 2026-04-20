@@ -3,7 +3,6 @@ dxvk-0.96.tzst
 dxvk-1.4.2.tzst
 dxvk-1.7.2.tzst
 dxvk-1.7.3.tzst
-dxvk-1.10.tzst
 dxvk-1.10.6.tzst
 dxvk-1.10.8.tzst
 dxvk-1.10.9.tzst
@@ -18,12 +17,18 @@ dxvk-2.6.1.tzst
 dxvk-2.6.2.tzst
 dxvk-2.7.tzst
 dxvk-2.7.1.tzst
+dxvk-0.40.1-d9vk.tzst
+dxvk-0.96-combo.tzst
+dxvk-1.7.3-stripped.tzst
+dxvk-1.10-stripped.tzst
 dxvk-1.10.3-async.tzst
 dxvk-1.10.8-async.tzst
 dxvk-1.11.0-sarek-async.tzst
+dxvk-1.11.0-sarek-mali-fix.tzst
 dxvk-1.12.0-sarek-dyasync.tzst
 dxvk-2.2-4-gplasync.tzst
-dxvk-2.4-gplasync.tzst
+dxvk-2.4-1-gplasync.tzst
+dxvk-2.4.1-hdr-gplasync.tzst
 dxvk-2.5.2-gplasync.tzst
 dxvk-2.5.3-gplasync.tzst
 dxvk-2.6.1-gplasync.tzst
