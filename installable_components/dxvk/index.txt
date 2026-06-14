@@ -34,6 +34,9 @@ dxvk-2.5.3-gplasync.tzst
 dxvk-2.6.1-gplasync.tzst
 dxvk-2.7-gplasync.tzst
 dxvk-2.7.1-gplasync.tzst
+dxvk-2.5.3-binsem.tzst
+dxvk-2.6.2-binsem.tzst
+dxvk-2.7.1-binsem.tzst
 dxvk-2.5.3-binsem-gplasync.tzst
 dxvk-2.6.2-binsem-gplasync.tzst
 dxvk-2.7.1-binsem-gplasync.tzst
