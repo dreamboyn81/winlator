@@ -47,3 +47,6 @@ dxvk-3.0.1-gplasync.tzst
 dxvk-3.0.2.tzst
 dxvk-3.0.2-gplasync.tzst
 dxvk-3.0.2-binsem-gplasync.tzst
+dxvk-3.1.tzst
+dxvk-3.1-gplasync.tzst
+dxvk-3.1-binsem-gplasync.tzst
